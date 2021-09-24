@@ -1,0 +1,11 @@
+{
+  "name": "com.fp.objectmodels",
+  "version": "1.0.0",
+  "displayName": "Object Models",
+  "description": "Simple object abstractions",
+  "unity": "2019.1",
+  "keywords": ["Object-Models", "Abstractions"],
+  "author": { "name": "Yevhenii Vitiuk", "email": "Yevhenii.Vitiuk@gmail.com"},
+  "license": "MIT",
+  "dependencies": {}
+}

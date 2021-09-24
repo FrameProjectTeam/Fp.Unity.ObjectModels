@@ -1,0 +1,14 @@
+{
+    "name": "Fp.ObjectModels",
+    "rootNamespace": "Fp.ObjectModels",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
