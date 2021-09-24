@@ -5,7 +5,7 @@
   "description": "Simple object abstractions",
   "unity": "2019.1",
   "keywords": ["Object-Models", "Abstractions"],
-  "author": { "name": "Yevhenii Vitiuk", "email": "Yevhenii.Vitiuk@gmail.com"},
+  "author": { "name": "Frame Project", "email": "Yevhenii.Vitiuk@gmail.com"},
   "license": "MIT",
   "dependencies": {}
 }
